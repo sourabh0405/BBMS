@@ -12,13 +12,11 @@ management effective.</br>
 
 --> Just follow these steps, if you have no idea how to run the project.</br>
 
-Step-01 Right click and Extract the zip file that I have provided to you.</br>
+Step-01 create a folder name RedCross and put these directory structre in it.</br>
 
-Step-02 Make sure extracted file should be in one folder (if there are subfolder put the files in one folder).</br>
+Step-03 Put the created folder in xampp/htdocs folder.</br>
 
-Step-03 Put the extracted folder (BBMS) in xampp/htdocs folder.</br>
-
-Step-04 Now your project files should be here - xampp/htdocs/BBMS/project_files.</br>
+Step-04 Now your project files should be here - xampp/htdocs/RedCross/project_files.</br>
 
 Step-05 Now Open your xampp serve and start mysql and apache services.</br>
 
