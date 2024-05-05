@@ -46,4 +46,4 @@ Step-15 Now you can login or register as an donor or patient.</br>
 
   --> Admin password: admin123</br>
 
-Feel free to ask if you have any error or issue regarding this project <a herf="mailto:sourabhdewedi786@gmail.com">Send Email</a>. </br>
+Feel free to ask if you have any error or issue regarding this project sourabhdewedi786@gmail.com. </br>
