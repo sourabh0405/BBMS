@@ -1,5 +1,5 @@
 INTRODUCTION</br>
-The blood bank management system project is a great project. This project is designed for
+The blood bank management system is my final year academics project. This project is designed for
 successful execution of blood bank management system functionality.The building aim is to
 provide online blood bank service to the people. It is a browser-based system that is designed
 to store, process, retrieve and analyse information concerned with the administrative and
